@@ -1,14 +1,4 @@
 ---
-title: THRUM
-emoji: 〰️
-colorFrom: green
-colorTo: gray
-sdk: static
-pinned: false
-license: mit
-short_description: an oscillograph for AI self-reports
----
-
 # THRUM
 
 **An instrument that makes an AI answer in an invented language — words, private thinking, and numeric self-state fused into one string — then decodes and draws all three as a single line.**
